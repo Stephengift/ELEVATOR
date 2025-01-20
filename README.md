@@ -9,4 +9,4 @@ iv. Activity Diagram
 v. Tracibility Matrix
 vi. Header Files
 
-The plan is to implement the ELevator using QT C++ for a GUI feel to it, which is still under implementation
+T
